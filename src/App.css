@@ -1,0 +1,9 @@
+@import '@picocss/pico';
+
+input#length {
+  width: 200px;
+}
+
+button {
+  margin-top: 30px;
+}
